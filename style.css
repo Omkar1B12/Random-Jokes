@@ -2,9 +2,21 @@ body{
     background-color:black;
 }
 h1{
-    color: aqua;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 button{
     background-color: aqua;
     color: black;
+    margin-left: 150px;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 500px;
+    height: 200px;
+    
+
 }
